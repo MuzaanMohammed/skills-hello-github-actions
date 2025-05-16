@@ -28,9 +28,7 @@ The shell script in the workflow will run whenever a new pull request is opened.
 <footer>
 
 ---
-![emoji](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnet.com%2Ftech%2Fservices-and-software%2Fhere-are-the-latest-emoji-and-what-your-favorite-emoji-really-means%2F&psig=AOvVaw3LjGe3gio7aAjD9CQjuspx&ust=1747481352163000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiIiMDxp40DFQAAAAAdAAAAABAE).
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
+![emoji](https://www.cnet.com/a/img/resize/5aaa41a2e0d3c02b04f5bbf89797af6be433ee8a/hub/2025/03/04/1353d31c-269c-4169-ba09-34e597f26974/1fae9-1024px-1.png?auto=webp&width=768).
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
